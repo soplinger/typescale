@@ -1,0 +1,8 @@
+# Type scale for the marketing site
+base = 16px          # body text size
+ratio = major third  # 1.25
+steps = -2..5
+root = 16px
+line = 1.5           # body line-height
+baseline = 4px       # line heights snap to 4px rows
+fluid = 15 18 320 1280

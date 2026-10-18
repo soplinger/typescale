@@ -1,0 +1,21 @@
+/* Stylesheet checked against site.scale */
+body {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 2.4414rem;
+}
+
+h2 {
+  font-size: 21px;
+}
+
+small {
+  font-size: 0.8rem;
+}
+
+.lede {
+  font-size: var(--step-1);
+}
